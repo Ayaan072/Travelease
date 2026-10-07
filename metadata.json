@@ -1,0 +1,6 @@
+{
+  "name": "TravelEase – Travel Package Booking System",
+  "description": "A clean, modular PHP & MySQL travel package booking system designed for Software Engineering and Testing demonstrations with complete XAMPP setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
